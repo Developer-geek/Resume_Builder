@@ -1,12 +1,12 @@
 # Custom Resume Builder Website
 This repository is a JScript template editor to generate resumes with customized templates
 
-######Live Demo - https://developer-geek.github.io/Resume_Builder/
-######Languages Used - HTML, CSS, JScript
+###### Live Demo - https://developer-geek.github.io/Resume_Builder/
+###### Languages Used - HTML, CSS, JScript
 
 **NOTE** : Click the "VIEW INSTRUCTIONS" button in the editor to read usage instructions.
 
-####Features :
+#### Features :
 - Resume content can be edited just like a normal document editor (cut,copy,undo etc).
 - Section visibility can be toggled while retaining the content.
 - Script provided to merge multiple pages and compress the PDF.
